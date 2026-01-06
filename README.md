@@ -8,9 +8,10 @@ Bem-vindo(a) ao meu repositório de estudos! Aqui concentro meu aprendizado prá
 * **Ferramentas:** Google Colab, Jupyter Notebook, Git
 ## 📂 Estrutura do Repositório
 
-### 1. [Tratamento e Limpeza de Dados](./02-Pandas-Tratamento)
-Foco em manipulação de DataFrames, tratamento de valores nulos (NaN), correção de tipos de dados e preparação para análise.
-* *Destaque:* Limpeza de base de dados de Vendas (link para o arquivo)
+### 1. [Pandas: limpeza e tratamento de dados](./01-Pandas-Tratamento)
+Foco: Manipulação de DataFrames com Pandas, normalização de estruturas aninhadas (JSON), tratamento de valores nulos e vazios, correção de tipos de dados, tratamento de outliers e preparação da base para análise e modelagem.
+* *Destaque:* Limpeza e preparação de base de dados de *Churn de Clientes* a partir de arquivo JSON ([dataset-telecon.json](https://raw.githubusercontent.com/Sofia-bispo/Jornada-Data-Science/refs/heads/main/01-Pandas-Tratamento/dataset-telecon.json))
+
 
 ### 2. [Visualização de Dados](./03-Visualizacao-Dados)
 Criação de gráficos para facilitar a leitura de tendências e padrões.
